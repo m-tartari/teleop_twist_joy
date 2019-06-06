@@ -1,10 +1,10 @@
 # Xiaomi controller
 axis_linear: 1 # Forward/Back
-scale_linear: 0.5
+scale_linear: 0.75
 scale_linear_turbo: 1
 
 axis_angular: 0 # Left/Right
-scale_angular: 0.5
+scale_angular: 0.75
 
 enable_button: 8 # L2 shoulder button
 enable_turbo_button: 0 # A button
